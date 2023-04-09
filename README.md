@@ -1,31 +1,3 @@
-Final Project details:
-
-
-Online food ordering web  application
-
-Purpose: This food ordering system helps users order food from registered restaurants.
-
-Authors:
-
-sathishkumar.s@northeastern.edu
-balasubramanian.ro@northeastern.edu
-sinha.sp@northeastern.edu
-ram.a@northeastern.edu
-
-Instructions: 
-1. Create Restaurant login: where the restauarant is able to provide mandatory name, address, phone number and picture details thereby registering as a restaurant 
-2.Restuarant Menu : The restaurant login adds/edits food menu  
-3.Create User login : where the user gives his username and password to login as a customer to place food order
-4. Finally on the dashboard the customer can
- a) click on  any registered restauarnt
- b) checks the menu
- c) creates/deletes the quantity of food
- d) places the order and checkout with paypal/credit card payment
-5) As a user admin/ restaurant admin I can always update  my profile  
-
-
-INSTRUCTIONS TO RUN THE PROJECT::
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -96,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
